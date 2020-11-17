@@ -1,0 +1,10 @@
+2020-11-16 17:11:27.7011 DEBUG Adding the Employee: Rohitvia ThreadID: 4
+2020-11-16 17:11:28.1291 INFO Employee Successfully added in Database via ThreadId: 11
+2020-11-16 17:11:28.1291 DEBUG Adding the Employee: Sachinvia ThreadID: 4
+2020-11-16 17:11:28.1291 INFO Employee Successfully added in Database via ThreadId: 11
+2020-11-16 17:11:28.1291 DEBUG Adding the Employee: Yuvrajvia ThreadID: 4
+2020-11-16 17:11:28.1411 INFO Employee Successfully added in Database via ThreadId: 11
+2020-11-16 17:11:28.1411 DEBUG Adding the Employee: Bumrahvia ThreadID: 4
+2020-11-16 17:11:28.1411 INFO Employee Successfully added in Database via ThreadId: 11
+2020-11-16 17:11:28.1411 DEBUG Adding the Employee: Peryvia ThreadID: 4
+2020-11-16 17:11:28.1411 INFO Employee Successfully added in Database via ThreadId: 11
